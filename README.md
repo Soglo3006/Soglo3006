@@ -12,13 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Soglo3006&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soglo3006&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Soglo3006&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Soglo3006&limit=5&theme=gotham&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Soglo3006&icon=7&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
