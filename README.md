@@ -1,5 +1,5 @@
 # About Me:
- Salut, moi c'est Alexandre !<br><br>🎓 Étudiant en Informatique à l'Université de Montréal.<br> Passionné par la technologie et le sport.<br> J'aime explorer de nouvelles idées, relever des défis et sortir de ma zone de confort.<br> Toujours curieux d'apprendre et d'innover !<br> Retrouvez ici mes projets et expérimentations.
+ Salut, moi c'est Alexandre !<br><br> Étudiant en Informatique à l'Université de Montréal.<br> Passionné par la technologie et le sport.<br> J'aime explorer de nouvelles idées, relever des défis et sortir de ma zone de confort.<br> Toujours curieux d'apprendre et d'innover !<br> Retrouvez ici mes projets et expérimentations.
 
 
 ## Socials:
